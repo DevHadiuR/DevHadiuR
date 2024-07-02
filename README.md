@@ -60,3 +60,21 @@
       </a>
     </div>
     
+   <br /><br /><br />
+
+   <hr />
+
+   <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+    <br />
+    <div align="center">
+      <img
+        src="https://skillicons.dev/icons?i=react,html,css,tailwind,vscode,github,figma,git"
+      />
+      <img
+        src="https://skillicons.dev/icons?i=nodejs,javascript,express,firebase,mongodb"
+      /><br />
+    </div>
+
+   <br />
+   <hr />
+    
