@@ -37,7 +37,7 @@
         />
       </a>
 
-   <a align="right" href="www.linkedin.com/in/hadiur-rahman" target="_blank">
+   <a align="right" href="https://www.linkedin.com/in/hadiur-rahman/" target="_blank">
         <img
           src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
           target="_blank"
@@ -45,7 +45,7 @@
       </a>
       <a
         align="center"
-        href="https://www.facebook.com/hadiur.rahman.777/o"
+        href="https://www.facebook.com/hadiur.rahman.777/"
         target="_blank"
       >
         <img
