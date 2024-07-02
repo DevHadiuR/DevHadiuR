@@ -68,12 +68,16 @@
    <hr />
 
    <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-    <br />
-    <div align="center">
-      <img
+   
+   <br />
+    
+   <div align="center">
+    
+   <img
         src="https://skillicons.dev/icons?i=react,html,css,tailwind,vscode,github,figma,git"
       />
-      <br>
+      
+   <br>
       <img
         src="https://skillicons.dev/icons?i=nodejs,javascript,express,firebase,mongodb"
       /><br />
