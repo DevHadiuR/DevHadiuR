@@ -1,1 +1,1 @@
-![logo](https://github.com/DevHadiuR/DevHadiuR/blob/main/github%20banner.mp4)
+![bannerGif](https://github.com/DevHadiuR/DevHadiuR/blob/main/github%20banner.gif)
