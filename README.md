@@ -61,6 +61,9 @@
     </div>
     
    <br /><br /><br />
+    <br>
+    <br>
+    <br>
 
    <hr />
 
@@ -70,11 +73,11 @@
       <img
         src="https://skillicons.dev/icons?i=react,html,css,tailwind,vscode,github,figma,git"
       />
+      <br>
       <img
         src="https://skillicons.dev/icons?i=nodejs,javascript,express,firebase,mongodb"
       /><br />
     </div>
 
    <br />
-   <hr />
-    
+    <hr />
