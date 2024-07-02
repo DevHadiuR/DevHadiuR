@@ -100,7 +100,7 @@
       />
       <br /><br /><br />
     </div>
-
+<br />
   <hr />
 
   
@@ -128,10 +128,19 @@
     </div>
 
    <br /><br />
-
+   
+<br />
    <hr />
 
    <br />
+
+  <h2 align="center">👀 Current overview</h2>
+   
+ ### 🔭 Currently mastering - Web development techniques through rigorous practice and application.
+### 🌱 Exploring - Opportunities to apply my recently acquired web development skills from Programming Hero to real-world projects.
+### 👯 Seeking - Collaborative roles in web development to contribute creatively and solve challenging problems.
+### 🤔 Dedicated to - Advancing my knowledge in web technologies and staying ahead of industry innovations.
+### ⚡ Fun fact - I once coded an entire website using nothing but HTML... in Notepad!
 
   
 
